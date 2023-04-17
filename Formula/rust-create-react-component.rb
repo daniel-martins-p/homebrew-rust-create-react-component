@@ -6,6 +6,6 @@ class RustCreateReactComponent < Formula
   version "0.1.0"
 
   def install
-    bin.install "create-react-component"
+    bin.install "create_react_component"
   end
 end
